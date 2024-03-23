@@ -1,0 +1,37 @@
+.diet-plan {
+    font-family: Arial, sans-serif;
+    color: white;
+    margin: 0 auto;
+    padding: 20px;
+    max-width: 800px;
+    /* background-color: darkorange;*/
+    border: 1px solid black;
+    text-align: left; 
+}
+html {
+    background-image: url(diet.jpg);
+    background-size: cover;
+}
+
+
+.diet-plan h2 {
+    color: black;
+    font-size: 50px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.diet-plan h3 {
+    color: black;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.diet-plan ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.diet-plan li {
+    padding: 5px 0;
+}
