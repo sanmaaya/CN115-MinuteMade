@@ -1,0 +1,1 @@
+CHIKFIT is an fitness tracking application,where you can track your workouts, diets. It is a login based application where the user will be assigned to trainers and diet plans which they have to follow. 
